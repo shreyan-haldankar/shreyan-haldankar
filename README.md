@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Shreyan Haldankar
-- 👀 I’m interested in learning new things everyday
-- 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on a few innovative projects
-- 📫 You can reach me at shreyanhaldankar@gmail.com
+- 👋 Hi, I’m <strong>Shreyan Haldankar</strong>
+- 💻 I’m interested in learning new things everyday.
+- 🌱 I’m currently learning Web development.
+- 💞️ I’m looking to collaborate on a few innovative projects.<br>
+
 ```css
 $ infofetch
 
@@ -43,3 +43,18 @@ $ infofetch
      
  
 ```
+
+
+<br>
+<h3>You can contact me at :</h3> <br>
+
+  <a href="mailto:shreyanhaldankar@gmail.com">
+    <img align="left" alt="Shreyan Haldankar | Gmail" width="26px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+  </a>
+  <a href="https://www.instagram.com/shreyan__09/">
+    <img align="left" alt="sudarsonhalder | Instagram" width="26px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+  </a>
+<br>
+<br>
+<br>
+
