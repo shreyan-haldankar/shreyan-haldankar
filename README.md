@@ -46,8 +46,11 @@ $ infofetch
 
 
 <br>
-<h3>You can contact me at :</h3> <br>
-
+<h3>You can contact me at :</h3> 
+<br>
+<a href="https://www.linkedin.com/in/shreyan-haldankar">
+    <img align="left" alt="shreyan-haldankar | Linkedin" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+</a>
   <a href="mailto:shreyanhaldankar@gmail.com">
     <img align="left" alt="Shreyan Haldankar | Gmail" width="26px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
   </a>
