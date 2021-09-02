@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <strong>Shreyan Haldankar</strong>
-- 💻 I’m interested in learning new things everyday.
+- 💻 I’m interested in learning  Python for Machine Learning.
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on a few innovative projects.<br>
 
