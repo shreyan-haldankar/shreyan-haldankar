@@ -40,7 +40,7 @@ $ infofetch
                  ///////////////////////////////////////////////                    --------
                      ///////////////////////////////////////                        Github: https://github.com/shreyan-haldankar
                            ///////////////////////////                              Email: "shreyanhaldankar@gmail.com"
-     
+                                                                                    LinkedIn: www.linkedin.com/in/shreyan-haldankar/
  
 ```
 
@@ -48,7 +48,7 @@ $ infofetch
 <br>
 <h3>You can contact me at :</h3> 
 <br>
-<a href="https://www.linkedin.com/in/shreyan-haldankar">
+<a href="www.linkedin.com/in/shreyan-haldankar/">
     <img align="left" alt="shreyan-haldankar | Linkedin" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </a>
   <a href="mailto:shreyanhaldankar@gmail.com">
