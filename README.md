@@ -12,7 +12,7 @@ $ infofetch
                           /////////////////////////////                             */ Uptime;"19 years"                      
                      ///////////////////////////////////////                        */ Languages; "C/C++, Python"
                  ///////////////////////////////////////////////                    */ OS; "Pop!_OS"
-              ////////////////     ////////////////////////////////                 */ Currently Learning: "Web development"
+              ////////////////     ////////////////////////////////                 */ Currently Learning: "Python"
            /////////////                 /////////////////////////////              */ Interested in learning: "Python, Java"
          ///////////                       /////////////////////////////            */ Editor: "VSCode, Atom, Pycharm"
        //////////                            /////////////////////////////          */ Hobbies: "Football, Blender"
