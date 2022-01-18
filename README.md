@@ -52,10 +52,10 @@ $ infofetch
     <img align="left" alt="shreyan-haldankar | Linkedin" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
 </a>
   <a href="mailto:shreyanhaldankar@gmail.com">
-    <img align="left" alt="Shreyan Haldankar | Gmail" width="26px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+    <img align="left" alt="Shreyan Haldankar | Gmail" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
   </a>
   <a href="https://www.instagram.com/shreyan__09/">
-    <img align="left" alt="shreyan__09 | Instagram" width="26px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+    <img align="left" alt="shreyan__09 | Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
   </a>
 <br>
 <br>
