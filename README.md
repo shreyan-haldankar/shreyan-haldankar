@@ -46,6 +46,10 @@ $ infofetch
 
 
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=shreyan-haldankar&&show_icons=true&title_color=ffffff&icon_color=fffff&text_color=daf7dc&bg_color=151515">
+
+
 <h3>You can contact me at :</h3> 
 <br>
 <a href="https://www.linkedin.com/in/shreyan-haldankar/">
@@ -57,7 +61,7 @@ $ infofetch
   <a href="https://www.instagram.com/shreyan__09/">
     <img align="left" alt="shreyan__09 | Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
   </a>
+
 <br>
-<br>
-<br>
+
 
