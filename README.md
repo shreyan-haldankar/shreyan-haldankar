@@ -48,6 +48,7 @@ $ infofetch
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=shreyan-haldankar&&show_icons=true&title_color=fffff&icon_color=fffff&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shreyan-haldankar&layout=compact">
 
 
 <h3>You can contact me at :</h3> 
