@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <strong>Shreyan Haldankar</strong>
-- 💻 I’m interested in learning  Python for Backend Development.
+- 💻 I’m interested in learning Python, NodeJS for Backend Development.
 - 🌱 I’m currently working on some Back-End Web Development projects using Django.
 - 💞️ I’m looking to collaborate on a few innovative projects.<br>
 
