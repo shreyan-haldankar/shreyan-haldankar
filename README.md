@@ -140,11 +140,13 @@
 </p>
   
 <br>
-<img  src="https://github-readme-stats.vercel.app/api?username=shreyan-haldankar&&show_icons=true&title_color=fffff&icon_color=fffff&text_color=daf7dc&bg_color=151515">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyan-haldankar&show_icons=true&theme=dark&locale=en" alt="shreyan-haldankar" /></p>
+<br>
   
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyan-haldankar&show_icons=true&locale=en&layout=compact" alt="shreyan-haldankar" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyan-haldankar&show_icons=true&locale=en&layout=compact" alt="shreyan-haldankar" /></p> -->
 
 <h3>You can contact me at :</h3> 
 <br>
@@ -157,7 +159,14 @@
   <a href="https://www.instagram.com/shreyan__09/">
     <img align="left" alt="shreyan__09 | Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
   </a>
+  <a href="https://www.codechef.com/users/shreyan_09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyan_09" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shreyanhaldankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreyanhaldankar" height="30" width="40" /></a>
 
-<br>
+
+<p align="left">
+
+</p>
+
+
 
 
