@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <strong>Shreyan Haldankar</strong>
-- 💻 I’m interested in learning Python, NodeJS for Backend Development.
-- 🌱 I’m currently working on some Back-End Development projects using Django, Django Rest Framework.
+- 💻 I’m interested in learning Django, NodeJS for Backend Development.
+- 🌱 I’m currently working on some Full Stack Development projects using Django, Django Rest Framework, ReactJS.
 - 💞️ I’m looking to collaborate on innovative project ideas.<br>
 
 <h3 align="left">Languages:</h3>
