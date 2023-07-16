@@ -1,8 +1,29 @@
-- 👋 Hi, I’m <strong>Shreyan Haldankar</strong>
-- 💻 I’m interested in learning Django, NodeJS for Backend Development.
-- 🌱 I’m currently working on some Full Stack Development projects using Django, Django Rest Framework, ReactJS.
-- 💞️ I’m looking to collaborate on innovative project ideas.<br>
+<img align="right" height="190" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shreyan-haldankar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:shreyanhaldankar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="center">Hello World 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Shreyan Haldankar, an aspiring Software Developer<br><br>- 🔭 I’m working as a Software Development Intern at IIT Bombay<br>- 📚 I'm currently learning Backend Development and interested in learning about Microservices Architecture<br>- ⚡ In my free time I like to research on NLP projects and practice problem solving</p>
+
+###
 <h3 align="left">Languages:</h3>
 <p align="left">
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -30,13 +51,15 @@
       height="40"
     />
   </a>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </p>
 
 <h3 align="left">Back-End:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  
  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+
 </p>
 
 
@@ -146,10 +169,9 @@
 </p>
   
 <br>
-
 <div align="left">
-<p><img src="https://github-readme-stats.vercel.app/api?username=shreyan-haldankar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Shreyan" /></p>
- </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyan-haldankar&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+</div>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyan-haldankar&show_icons=true&theme=dark&locale=en" alt="shreyan-haldankar" /></p> -->
 <br> 
