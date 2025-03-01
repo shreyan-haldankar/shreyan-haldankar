@@ -108,6 +108,7 @@
   -->
  <h3 align="left">Database:</h3>
    <p align="left">
+    
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -126,7 +127,7 @@
       height="40"
     />
   </a>
-
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
   
 </p>
 
@@ -141,6 +142,7 @@
 
 <h3 align="left">Others:</h3>
 <p align="left">
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
@@ -166,13 +168,7 @@
 </p>
   
 <br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyan-haldankar&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-</div>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyan-haldankar&show_icons=true&theme=dark&locale=en" alt="shreyan-haldankar" /></p> -->
-<br> 
- 
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyan-haldankar&show_icons=true&locale=en&layout=compact" alt="shreyan-haldankar" /></p> -->
